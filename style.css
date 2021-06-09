@@ -1,0 +1,31 @@
+h2{
+    color :rgb(36, 22, 224);
+    border-color: "red" ;
+    
+}
+
+
+
+body{
+    background-color: rgb(94, 20, 20);
+}
+ 
+p{
+    color:rgb(82, 82, 82);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.grid{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly ; 
+}
+
+
+p,h2{
+    text-align: center;
+}
+
+.item *{
+color:white
+}
